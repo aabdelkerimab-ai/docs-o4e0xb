@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-cfnll8.indcuan.cfd/sitemap.xml
